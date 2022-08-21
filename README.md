@@ -8,4 +8,4 @@ The data is composed by sequences of sensor data corresponding to different pers
 
 ## Implementation
 
-The implementation with all explanations and details corresponds with 
+The implementation with all explanations and details corresponds with the notebook **human_activity_sensor.ipynb**.
