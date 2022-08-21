@@ -5,3 +5,7 @@ The objective is to implement a system for human activity detection using monito
 ## Data
 
 The data is composed by sequences of sensor data corresponding to different persons performing a set of activities in seminaturalistic conditions. It corresponds with **AR_database.mat**.
+
+## Implementation
+
+The implementation with all explanations and details corresponds with 
